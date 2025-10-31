@@ -19,7 +19,6 @@ This application is built with **Spring Boot**, **Spring Security**, and **MySQL
 - ✅ Request filtering and validation of JWT tokens
 - ✅ Secure protected endpoints with role-based authorization
 - ✅ Persistent user storage with **MySQL database**
-- ✅ Token blacklisting/revocation support (optional enhancement)
 
 Perfect for developers looking to implement **stateless, token-based authentication** in production-grade Spring Boot applications.
 
@@ -50,7 +49,6 @@ Perfect for developers looking to implement **stateless, token-based authenticat
 | **Database** | MySQL 8.0+ |
 | **ORM** | Spring Data JPA / Hibernate |
 | **Build Tool** | Maven |
-| **Testing** | JUnit 5, Mockito |
 
 ---
 
