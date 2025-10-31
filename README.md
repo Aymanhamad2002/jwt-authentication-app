@@ -230,7 +230,7 @@ You are free to use, modify, and distribute this software in your projects.
 **Ayman Hamad**
 
 - GitHub: [@Aymanhamad2002](https://github.com/Aymanhamad2002)
-- Email: [Your Email]
+
 
 ---
 
